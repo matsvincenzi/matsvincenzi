@@ -1,16 +1,14 @@
-<h1 align="center">Hello There! 🖐️ - I'm Mateus Vincenzi</h1>
-
-###
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=header" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matsvincenzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matsvincenzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matsvincenzi&radius=16&theme=gruvbox&area=false&order=5&bg_color=#8d4925" height="300" alt="activity-graph graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=663C1F&center=true&width=600&lines=Hello+There!+%F0%9F%96%90%EF%B8%8F+I'm+Mateus+Vincenzi;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ###
 
-<br clear="both">
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateusvincenzi/" target="_blank">
@@ -29,3 +27,7 @@
 <h3 align="center">contact me via email:<br>✉️ | matsvincenzi@gmail.com</h3>
 
 ###
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=footer" />
+</div>
