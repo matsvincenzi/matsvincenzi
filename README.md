@@ -3,10 +3,26 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=663C1F&center=true&width=600&lines=Hello+There!+%F0%9F%96%90%EF%B8%8F+I'm+Mateus+Vincenzi;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=663C1F&center=true&width=800&lines=Hello+There!+%F0%9F%96%90%EF%B8%8F+I'm+Mateus+Vincenzi;Welcome+to+my+profile!;" alt="Typing SVG" />
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://github.com/matsvincenzi">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matsvincenzi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=895129&title_color=FFFFFF"/>
+    </a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvincenzi&layout=compact&langs_count=7&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/matsvincenzi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matsvincenzi&bg_color=00000000&color=FFFFFF&line=895129&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
+  </a>
+</div>
 
 ###
 
