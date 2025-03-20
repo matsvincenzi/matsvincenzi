@@ -6,17 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=663C1F&center=true&width=800&lines=Hello+There!+%F0%9F%96%90%EF%B8%8F+I'm+Mateus+Vincenzi;Welcome+to+my+profile!;" alt="Typing SVG" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <a href="https://github.com/matsvincenzi">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matsvincenzi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=895129&title_color=FFFFFF"/>
-    </a>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvincenzi&layout=compact&langs_count=7&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"/>
   </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvincenzi&layout=compact&langs_count=7&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"/>
 </div>
 
-###
+<br>
 
 <div align="center">
   <a href="https://github.com/matsvincenzi">
@@ -24,7 +23,21 @@
   </a>
 </div>
 
-###
+<br>
+
+<div align="center">
+  <h3>Technologies & Tools</h3>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,django,py,git,github,linux,postman" />
+  </a>
+</div>
+
+<br><br>
+
+---
+
+<br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateusvincenzi/" target="_blank">
@@ -38,11 +51,10 @@
   </a>
 </div>
 
-###
+<br><br>
 
-<h3 align="center">contact me via email:<br>✉️ | matsvincenzi@gmail.com</h3>
-
-###
+<h3 align="center">Contact me via email:<br>
+✉️ | matsvincenzi@gmail.com</h3>
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=footer" />
