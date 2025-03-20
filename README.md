@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=663C1F&center=true&width=800&lines=Hello+There!+%F0%9F%96%90%EF%B8%8F+I'm+Mateus+Vincenzi;Welcome+to+my+profile!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1100&color=663C1F&center=true&width=800&lines=Hello+There!+%F0%9F%96%90%EF%B8%8F+I'm+Mateus+Vincenzi;Welcome+to+my+profile!;" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,7 +29,7 @@
   <h3>Technologies & Tools</h3>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,django,py,git,github,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,django,py,postgres,docker,git,github,linux,postman" />
   </a>
 </div>
 
@@ -40,13 +40,13 @@
 <br><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mateusvincenzi/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateusvincenzi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/matts.dev/" target="_blank">
+  <a href="https://www.instagram.com/matts.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/NvsmEv4kC5" target="_blank">
+  <a href="https://discord.gg/NvsmEv4kC5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
