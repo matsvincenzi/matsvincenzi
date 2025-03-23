@@ -55,6 +55,7 @@
 
 <h3 align="center">Contact me via email:<br>
 ✉️ | matsvincenzi@gmail.com</h3>
+✉️ | coffeewcode@gmail.com</h3>
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=footer" />
