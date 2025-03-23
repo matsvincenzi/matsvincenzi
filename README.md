@@ -54,7 +54,7 @@
 <br><br>
 
 <h3 align="center">Contact me via email:<br>
-✉️ | matsvincenzi@gmail.com</h3>
+✉️ | matsvincenzi@gmail.com 
 ✉️ | coffeewcode@gmail.com</h3>
 
 <div align="center">
