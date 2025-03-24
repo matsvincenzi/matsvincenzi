@@ -9,9 +9,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/matsvincenzi">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matsvincenzi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=895129&title_color=FFFFFF"/>
-  </a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvincenzi&layout=compact&langs_count=7&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"/>
 </div>
 
@@ -35,10 +32,6 @@
 
 <br><br>
 
----
-
-<br><br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mateusvincenzi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -54,8 +47,7 @@
 <br><br>
 
 <h3 align="center">Contact me via email:<br>
-✉️ | matsvincenzi@gmail.com <br>
-✉️ | coffeewcode@gmail.com</h3>
+✉️ | matsvincenzi@gmail.com</h3>
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=footer" />
