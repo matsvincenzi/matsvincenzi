@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=header" />
 </div>
 
 <div align="center">
@@ -9,14 +9,14 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvincenzi&layout=compact&langs_count=7&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvincenzi&layout=compact&langs_count=7&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"/>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/matsvincenzi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matsvincenzi&bg_color=00000000&color=FFFFFF&line=895129&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matsvincenzi&bg_color=00000000&color=FFFFFF&line=895129&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF"/>
   </a>
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
   <h3>Technologies & Tools</h3>
-  <br><br>
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,django,py,postgres,docker,git,github,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,django,py,postgres,docker,git,github,linux,postman" height="50"/>
   </a>
 </div>
 
@@ -34,13 +34,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateusvincenzi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.instagram.com/matts.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
   <a href="https://discord.gg/NvsmEv4kC5" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+  <a href="mailto:matsvincenzi@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </div>
 
@@ -50,5 +53,5 @@
 ✉️ | matsvincenzi@gmail.com</h3>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=footer" />
 </div>
